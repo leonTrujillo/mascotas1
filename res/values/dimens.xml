@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="nombre_mascota">40dp</dimen>
+<dimen name="rating">30dp</dimen>
+<dimen name="ancho_foto">200dp</dimen>
+<dimen name="alto_foto">200dp</dimen>
+<dimen name="ancho_icono">35dp</dimen>
+<dimen name="alto_icono">30dp</dimen>
+<dimen name="radioCardCorner">4dp</dimen>
+</resources>
